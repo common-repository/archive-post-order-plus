@@ -1,0 +1,246 @@
+# Blank WordPress Pot
+# Copyright 2014 ...
+# This file is distributed under the GNU General Public License v3 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Archive Post Order Plus\n"
+"Report-Msgid-Bugs-To: Translator Name <translations@example.com>\n"
+"POT-Creation-Date: 2021-07-23 16:59+0900\n"
+"PO-Revision-Date: \n"
+"Last-Translator: NBK45 <nbk.develop@gmail.com>\n"
+"Language-Team: NBK45 <nbk.develop@gmail.com>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Textdomain-Support: yesX-Generator: Poedit 1.6.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html_x:1,2c;esc_html__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_attr__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;"
+"_x:1,2c;_n:1,2;_n_noop:1,2;__ngettext:1,2;__ngettext_noop:1,2;_c,_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 3.0\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: class/class.apop.apop_post.php:33
+msgid "APO + custom field settings"
+msgstr "APO+カスタムフィールド"
+
+#: class/class.apop.apop_post.php:57 template/order.php:8
+msgid "Your latest posts"
+msgstr "最新の投稿"
+
+#: class/class.apop.apop_post.php:58 template/order.php:9 template/order.php:55
+msgid "Search"
+msgstr "検索"
+
+#: class/class.apop.apop_post.php:59
+msgid "Category, Tag, Custom Taxonomy"
+msgstr "カテゴリー、タグ、カスタム分類"
+
+#: class/class.apop.apop_post.php:60
+msgid "Custom posts archive"
+msgstr "カスタム投稿アーカイブ"
+
+#: class/class.apop.apop_ui.php:352
+msgid "Select"
+msgstr "選択"
+
+#: class/class.apop.apop_ui.php:357
+msgid "Add"
+msgstr "追加"
+
+#: class/class.apop.apop_ui.php:364
+msgid "Type"
+msgstr "値タイプ"
+
+#: class/class.apop.apop_ui.php:369
+msgid "Text"
+msgstr "テキスト"
+
+#: class/class.apop.apop_ui.php:373
+msgid "Number"
+msgstr "数値"
+
+#: class/class.apop.apop_ui.php:469
+msgid "Published"
+msgstr "投稿日"
+
+#: class/class.apop.apop_ui.php:470
+msgid "Post Title"
+msgstr "タイトル"
+
+#: class/class.apop.apop_ui.php:472
+msgid "Modified"
+msgstr "更新日"
+
+#: class/class.apop.apop_ui.php:473
+msgid "Custom filed 1"
+msgstr "カスタムフィールド1"
+
+#: class/class.apop.apop_ui.php:474
+msgid "Custom filed 2"
+msgstr "カスタムフィールド2"
+
+#: class/class.apop.apop_ui.php:475
+msgid "Custom filed 3"
+msgstr "カスタムフィールド3"
+
+#: class/class.apop.apop_ui.php:476
+msgid "Custom filed 4"
+msgstr "カスタムフィールド4"
+
+#: class/class.apop.apop_ui.php:497 template/order.php:34 template/order.php:65
+#: template/order_parts_custom_posts.php:46
+#: template/order_parts_taxonomy.php:46
+msgid "Enabled"
+msgstr "有効"
+
+#: class/class.apop.apop_ui.php:503
+msgid "Asc"
+msgstr "昇順"
+
+#: class/class.apop.apop_ui.php:507
+msgid "Desc"
+msgstr "降順"
+
+#: class/class.apop.order.php:39
+msgid "Display number / target setting"
+msgstr "表示件数・対象設定"
+
+#: class/class.apop.order.php:47 template/order.php:5
+msgid "Sorting"
+msgstr "並べ替え"
+
+#: template/order.php:4
+msgid "apop-lang-en"
+msgstr "apop-lang-ja"
+
+#: template/order.php:10 template/order.php:87
+msgid "Category"
+msgstr "カテゴリー"
+
+#: template/order.php:11 template/order.php:96
+msgid "Tag"
+msgstr "タグ"
+
+#: template/order.php:12 template/order.php:105
+msgid "Custom taxonomy"
+msgstr "カスタム分類"
+
+#: template/order.php:13 template/order.php:113
+msgid "Custom posts"
+msgstr "カスタム投稿アーカイブ"
+
+#: template/order.php:24
+msgid "Your latest posts / Settings - Reading Settings"
+msgstr "最新の投稿（設定－表示設定ーホームページの表示）"
+
+#: template/order.php:31 template/order.php:62
+#: template/order_parts_custom_posts.php:36
+#: template/order_parts_custom_posts.php:44
+#: template/order_parts_taxonomy.php:36 template/order_parts_taxonomy.php:44
+msgid "Click \"Save Changes\" to register the sort."
+msgstr "並べ替えを登録するには「変更を保存」をクリックしてください。"
+
+#: template/order.php:40 template/order.php:71
+#: template/order_parts_custom_posts.php:52
+#: template/order_parts_taxonomy.php:52
+msgid "Disabled"
+msgstr "無効"
+
+#: template/order.php:120 template/setting.php:46
+msgid "Save changes"
+msgstr "変更を保存"
+
+#: template/order_parts_custom_posts.php:22 template/order_parts_menu.php:6
+#: template/order_parts_taxonomy.php:22
+msgid "Standard + custom field sort"
+msgstr "標準＋カスタムフィールドソート"
+
+#: template/order_parts_custom_posts.php:29 template/order_parts_menu.php:9
+#: template/order_parts_taxonomy.php:29
+msgid "Drag sort"
+msgstr "ドラッグソート"
+
+#: template/order_parts_custom_posts.php:60
+#: template/order_parts_taxonomy.php:59
+msgid "No"
+msgstr "並べ替えをカスタマイズする「"
+
+#: template/order_parts_custom_posts.php:60
+#: template/order_parts_taxonomy.php:59
+msgid "has been selected."
+msgstr "」は選択されていません。"
+
+#: template/setting.php:4
+msgid "Settings"
+msgstr "設定"
+
+#: template/setting.php:7
+msgid "Global settings"
+msgstr "全体設定"
+
+#: template/setting.php:10
+msgid "Displayed per page"
+msgstr "1ページ表示件数"
+
+#: template/setting.php:16 template/setting_parts_customposts.php:31
+#: template/setting_parts_taxonomy.php:31
+msgid "Follow display settings"
+msgstr "表示設定に従う"
+
+#: template/setting.php:18 template/setting_parts_customposts.php:33
+#: template/setting_parts_taxonomy.php:32
+msgid "Posts"
+msgstr "件"
+
+#: template/setting.php:22 template/setting_parts_customposts.php:44
+#: template/setting_parts_taxonomy.php:42
+msgid "All posts"
+msgstr "全件"
+
+#: template/setting.php:28 template/setting_parts_customposts.php:50
+#: template/setting_parts_taxonomy.php:47
+msgid "Set the number posts"
+msgstr "表示数設定"
+
+#: template/setting.php:40
+msgid "Categories setting"
+msgstr "カテゴリー設定"
+
+#: template/setting.php:41
+msgid "Tags setting"
+msgstr "タグ設定"
+
+#: template/setting.php:42
+msgid "Custom Taxonomies setting"
+msgstr "カスタム分類設定"
+
+#: template/setting.php:43
+msgid "Custom Posts Archive setting"
+msgstr "カスタム投稿アーカイブ設定"
+
+#: template/setting_parts_customposts.php:3
+#: template/setting_parts_taxonomy.php:3
+msgid "Targets"
+msgstr "対象"
+
+#: template/setting_parts_customposts.php:38
+#: template/setting_parts_taxonomy.php:37
+msgid "Follow global settings"
+msgstr "全体設定に従う"
+
+#: template/setting_post_custom_field.php:18
+msgid "* Change from custom field"
+msgstr "※カスタムフィールドから変更してください"
+
+#: template/success.php:2
+msgid "Saved the setting"
+msgstr "設定を保存しました"
+
+#, fuzzy
+#~| msgid "Search"
+#~ msgid "Search!!!"
+#~ msgstr "検索"
